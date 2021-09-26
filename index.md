@@ -1,17 +1,17 @@
 # **Hello! 你好！ I'm Esther** #
 
 ### *Introduction*
->I'm Chenxing Qiu. I pronounce she/her/hers. I am a transfer student in the Jacobs School of Engineering at UCSD, and I am currently working toward my first bachelor’s degree in Computer Engineering.* 
+>I'm Chenxing Qiu. I pronounce she/her/hers. I am a transfer student in the Jacobs School of Engineering at UCSD, and I am currently working toward my first bachelor’s degree in Computer Engineering.
 
 ### *Profile picture*
 ![profile picture](https://cdn.discordapp.com/attachments/874964100378148915/891076633430212608/unknown.png)
 If you like my profile picture 
 
-`cout << "YES! :D" << endl`;
+*`cout << "YES! :D" << endl;`*
  
 Otherwise 
 
-`cout << "SORRY! :c" << endl`.
+*`cout << "SORRY! :c" << endl;`*.
 
 
 ### *Things I like to do during my free time*
