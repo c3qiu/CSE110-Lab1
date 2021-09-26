@@ -1,4 +1,4 @@
-# **Hello! 你好！ I'm Esther** 
+# **Hello! 你好！ I'm Esther** #
 
 ### *Introduction*
 >I'm Chenxing Qiu. I pronounce she/her/hers. I am a transfer student in the Jacobs School of Engineering at UCSD, and I am currently working toward my first bachelor’s degree in Computer Engineering.*
@@ -6,14 +6,19 @@
 
 ### *Profile picture*
 ![profile picture](https://cdn.discordapp.com/attachments/874964100378148915/891076633430212608/unknown.png)
-If you like my profile picture `cout << "YES! :D" << endl`;
+If you like my profile picture 
+
+`cout << "YES! :D" << endl`;
  
-Otherwise `cout << "SORRY! :c" << endl`.
+Otherwise 
+
+`cout << "SORRY! :c" << endl`.
 
 #
 
 
-### *Things I like to do during my free time:*
+
+### *Things I like to do during my free time*
 - Hiking
 - Badminton
 - Racquetball
@@ -21,15 +26,16 @@ Otherwise `cout << "SORRY! :c" << endl`.
 - Making dessert
 #
 
-### *Some programming languages that I am familiar with:*
+### *Some programming languages that I am familiar with*
 - Java
 - C/C++
 - Python
 - Git
 - Verilog
+> Some useful materials that helped me when I code "[Useful Materials](#useful-materials)"
 #
   
-### *Projects:*  
+### *Projects*  
 - [x] Interactive Fiction
   > text adventure games.
 - [x] The Game of Life
@@ -47,14 +53,3 @@ Otherwise `cout << "SORRY! :c" << endl`.
 * [SystemVerilog](https://www.asic-world.com/systemverilog/index.html)
 * [Git Reference](https://git-scm.com/docs)
 * [W3Schools](https://www.w3schools.com/default.asp)
-#
-
-### *Table of Contents*
-- [**Hello! 你好！ I'm Esther**](#hello-你好-im-esther)
-    - [*Introduction*](#introduction)
-    - [*Profile picture*](#profile-picture)
-    - [*Things I like to do during my free time:*](#things-i-like-to-do-during-my-free-time)
-    - [*Some programming languages that I am familiar with:*](#some-programming-languages-that-i-am-familiar-with)
-    - [*Projects:*](#projects)
-    - [*Useful Materials*](#useful-materials)
-    - [*Table of Contents*](#table-of-contents)
