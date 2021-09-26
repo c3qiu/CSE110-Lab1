@@ -1,8 +1,7 @@
 # **Hello! 你好！ I'm Esther** #
 
 ### *Introduction*
->I'm Chenxing Qiu. I pronounce she/her/hers. I am a transfer student in the Jacobs School of Engineering at UCSD, and I am currently working toward my first bachelor’s degree in Computer Engineering.*
-#
+>I'm Chenxing Qiu. I pronounce she/her/hers. I am a transfer student in the Jacobs School of Engineering at UCSD, and I am currently working toward my first bachelor’s degree in Computer Engineering.* 
 
 ### *Profile picture*
 ![profile picture](https://cdn.discordapp.com/attachments/874964100378148915/891076633430212608/unknown.png)
@@ -14,9 +13,6 @@ Otherwise
 
 `cout << "SORRY! :c" << endl`.
 
-#
-
-
 
 ### *Things I like to do during my free time*
 - Hiking
@@ -24,7 +20,6 @@ Otherwise
 - Racquetball
 - K-Drama
 - Making dessert
-#
 
 ### *Some programming languages that I am familiar with*
 - Java
@@ -33,7 +28,6 @@ Otherwise
 - Git
 - Verilog
 > Some useful materials that helped me when I code "[Useful Materials](#useful-materials)"
-#
   
 ### *Projects*  
 - [x] Interactive Fiction
@@ -46,7 +40,6 @@ Otherwise
   > It is a machine learning-based approach, which is used to detect objects in other images.
 - [ ] Autonomous Vehicles
   > It is a vehicle that is capable of sensing its environment and moving safely with little or no human input.
-#
 
 ### *Useful Materials*
 * [C++ Reference](https://www.cplusplus.com/reference/)
