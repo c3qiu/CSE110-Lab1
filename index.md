@@ -1,4 +1,4 @@
-# **Hello! I'm Esther** 
+# **Hello! 你好！ I'm Esther** 
 
 ### *Introduction*
 >I'm Chenxing Qiu. I pronounce she/her/hers. I am a transfer student in the Jacobs School of Engineering at UCSD, and I am currently working toward my first bachelor’s degree in Computer Engineering.*
@@ -6,7 +6,12 @@
 
 ### *Profile picture*
 ![profile picture](https://cdn.discordapp.com/attachments/874964100378148915/891076633430212608/unknown.png)
+If you like my profile picture `cout << "YES! :D" << endl`;
+ 
+Otherwise `cout << "SORRY! :c" << endl`.
+
 #
+
 
 ### *Things I like to do during my free time:*
 - Hiking
@@ -44,16 +49,12 @@
 * [W3Schools](https://www.w3schools.com/default.asp)
 #
 
-### *Menu*
-- [**Hello! I'm Esther**](#hello-im-esther)
+### *Table of Contents*
+- [**Hello! 你好！ I'm Esther**](#hello-你好-im-esther)
     - [*Introduction*](#introduction)
     - [*Profile picture*](#profile-picture)
     - [*Things I like to do during my free time:*](#things-i-like-to-do-during-my-free-time)
     - [*Some programming languages that I am familiar with:*](#some-programming-languages-that-i-am-familiar-with)
     - [*Projects:*](#projects)
     - [*Useful Materials*](#useful-materials)
-    - [*Menu*](#menu)
-
-
-
-
+    - [*Table of Contents*](#table-of-contents)
